@@ -18,5 +18,5 @@ string grade = student.GetGrade();
 
 Console.WriteLine("Name: " + student.Name);
 Console.WriteLine("Total Marks: " + total);
-Console.WriteLine("Percentage: " + percentage);
+Console.WriteLine("Percentage : " + percentage);
 Console.WriteLine("Grade: " + grade);
